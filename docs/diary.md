@@ -2,7 +2,8 @@
 
 ## 2024-02-16
 
-- Take a show first.
+- Fortnite is the best.
+- I finished my homework, then I played Fortnite with my friends for 50 mins.
 
 ## 2024-02-15
 
