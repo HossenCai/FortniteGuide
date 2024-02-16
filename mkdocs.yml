@@ -1,0 +1,20 @@
+site_name: Fortnite Guide
+site_url: https://HossenCai.github.io/Fortnite
+nav:
+  - Home: index.md
+  - Diary: diary.md
+  - How to: how_to.md
+  - About: about.md
+theme:
+  name: null
+  custom_dir: 'cinder'
+  include_search_page: true
+  search_index_only: false
+  static_templates:
+  - 404.html
+
+plugins: ['search']
+
+# add theme version number here
+extra:
+    version: 0.4.0
