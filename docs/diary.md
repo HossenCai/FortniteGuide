@@ -2,8 +2,8 @@
 
 ## 2024-02-16
 
-- Fortnite is the best.
-- I finished my homework, then I played Fortnite with my friends for 50 mins.
+- Today I finished my homework, violin and school, I also spent some time with my dad.
+- I had so much fun playing Fortnite because I sniped my friend in the head and it was so satisfying.
 
 ## 2024-02-15
 
