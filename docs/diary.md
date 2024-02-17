@@ -2,7 +2,9 @@
 
 ## 2024-02-17
 
-- Todo List
+- Today I had my violin lesson, football training and went to eat dinner with my moms freinds.
+- I also improved alot in fortnite because I practiced my editing and reacting skills for when to build what.
+- I had so much fun.
 
 ## 2024-02-16
 
